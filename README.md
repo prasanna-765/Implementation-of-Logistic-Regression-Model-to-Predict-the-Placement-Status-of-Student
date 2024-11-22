@@ -64,11 +64,12 @@ RegisterNumber:  24013623
  print(classification_report1)
  lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
+![Screenshot 2024-11-22 090225](https://github.com/user-attachments/assets/26aa1f1c-a3a0-4151-b9f5-959911fac3d9)
+
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 ![Screenshot 2024-11-22 0904341](https://github.com/user-attachments/assets/aa35ba0c-f7f6-4713-8d4c-1dfc57314dff)
 ![Screenshot 2024-11-22 090434](https://github.com/user-attachments/assets/5e3df1b8-e6a5-48ca-b3c8-42cbe601b4d5)
 
-![Screenshot 2024-11-22 090225](https://github.com/user-attachments/assets/4f685e87-9fd9-423c-84ed-16316cbdcef5)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
